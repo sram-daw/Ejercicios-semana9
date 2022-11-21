@@ -1,3 +1,9 @@
+/**
+ * Ejercicio semana 9: Programación
+ *
+ * @author Sara Ramilo
+ * @version 21/11/2022
+ **/
 public class Main {
     public static void main(String[] args) {
 //Ejercicio 2
